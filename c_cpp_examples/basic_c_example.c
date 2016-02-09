@@ -53,7 +53,7 @@ main() {
    outfile=fopen("output.dat","w");
    Rfloat = 1.0*rand()/RAND_MAX;
    fprintf(outfile,"Rfloat = %f\n",Rfloat);
-
+   fclose(outfile);
 // ============== End of the original code ================
 
 
