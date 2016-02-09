@@ -1,0 +1,5 @@
+C/CPP Examples of using MPI
+
+basic_c_example.c
+--------------------
+Gives a very basic example of how to add MPI to your code. It won't get you to 10,000 cores, but it will get you started.
